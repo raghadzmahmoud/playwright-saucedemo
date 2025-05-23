@@ -32,7 +32,7 @@ PASSWORD=secret_sauce
 ```markdown
 ---
 
-## 📌 Playwright Features Used
+ 📌 Playwright Features Used
 
 - ✅ Page Object Model (POM)
 - ✅ Hooks (`beforeEach`)
@@ -43,7 +43,7 @@ PASSWORD=secret_sauce
 
 ---
 
-## 🛠️ Technologies
+ 🛠️ Technologies
 
 - Playwright
 - TypeScript
@@ -51,6 +51,6 @@ PASSWORD=secret_sauce
 
 ---
 
-## 👩‍💻 Author
+ 👩‍💻 Author
 
 Raghad Mahmoud
